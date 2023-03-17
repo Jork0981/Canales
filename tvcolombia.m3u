@@ -121,8 +121,6 @@ http://200.110.169.237:8202/play/a02x
 http://200.110.169.237:8202/play/a02v
 #EXTINF:-1,HBO XTREME 
 http://200.110.169.237:8202/play/a02w
-#EXTINF:-1,HBO Plus
-http://go.iptvhn.net:25461/5766/5766/6571
 #EXTINF:-1,HBO Pop 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlIffQgTc47CgsrrIT_VRFk/ts
 #EXTINF:-1,HBO Mundi 
@@ -157,8 +155,22 @@ http://200.24.132.99:8000/play/a02s
 http://200.24.132.99:8000/play/a004
 #EXTINF:-1,SNT
 http://200.110.169.237:8202/play/a00o
+#EXTINF:-1,STAR ACTION
+http://go.iptvhn.net:25461/5766/5766/6610
 #EXTINF:-1,STAR CHANNEL
 http://200.110.169.237:8202/play/a00j
+#EXTINF:-1,STAR CLASSICS
+http://go.iptvhn.net:25461/5766/5766/6613
+#EXTINF:-1,STAR COMEDY
+http://go.iptvhn.net:25461/5766/5766/6614
+#EXTINF:-1,STAR FUN
+http://go.iptvhn.net:25461/5766/5766/6615
+#EXTINF:-1,STAR HITS
+http://go.iptvhn.net:25461/5766/5766/6616
+#EXTINF:-1,STAR LIFE
+http://go.iptvhn.net:25461/5766/5766/6617
+#EXTINF:-1,STAR SERIES
+http://go.iptvhn.net:25461/5766/5766/6618
 #EXTINF:-1,Senal Colombia
 http://200.110.169.237:8202/play/a03e
 #EXTINF:-1,Sin Limites
@@ -183,6 +195,8 @@ http://200.110.169.237:8202/play/a00k
 http://200.110.169.237:8202/play/a01t
 #EXTINF:-1,TNT
 http://200.110.169.237:8202/play/a00m
+#EXTINF:-1,TNT Series
+http://go.iptvhn.net:25461/5766/5766/6632
 #EXTINF:-1,TRO
 http://200.110.169.237:8202/play/a03l
 #EXTINF:-1,TV+ HD
