@@ -155,22 +155,8 @@ http://200.24.132.99:8000/play/a02s
 http://200.24.132.99:8000/play/a004
 #EXTINF:-1,SNT
 http://200.110.169.237:8202/play/a00o
-#EXTINF:-1,STAR ACTION
-http://go.iptvhn.net:25461/5766/5766/6610
 #EXTINF:-1,STAR CHANNEL
 http://200.110.169.237:8202/play/a00j
-#EXTINF:-1,STAR CLASSICS
-http://go.iptvhn.net:25461/5766/5766/6613
-#EXTINF:-1,STAR COMEDY
-http://go.iptvhn.net:25461/5766/5766/6614
-#EXTINF:-1,STAR FUN
-http://go.iptvhn.net:25461/5766/5766/6615
-#EXTINF:-1,STAR HITS
-http://go.iptvhn.net:25461/5766/5766/6616
-#EXTINF:-1,STAR LIFE
-http://go.iptvhn.net:25461/5766/5766/6617
-#EXTINF:-1,STAR SERIES
-http://go.iptvhn.net:25461/5766/5766/6618
 #EXTINF:-1,Senal Colombia
 http://200.110.169.237:8202/play/a03e
 #EXTINF:-1,Sin Limites
@@ -232,9 +218,9 @@ http://200.110.169.237:8202/play/a034
 #EXTINF:-1,Universal Premiere 
 http://200.110.169.237:8202/play/a032
 #EXTINF:-1,Universal Reality
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJk_-sBQLym3b5DKQ-g34GKE/ts
+http://go.iptvhn.net:25461/5766/5766/6610
 #EXTINF:-1,Universal Crime
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJl2ImYLPbAO3DOg0gW-g6UY/ts
+http://go.iptvhn.net:25461/5766/5766/6615
 #EXTINF:-1,ViaX
 http://200.110.169.237:8202/play/a01u
 #EXTINF:-1,Warner
