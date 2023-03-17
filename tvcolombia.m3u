@@ -44,7 +44,7 @@ http://200.110.169.237:8202/play/a020
 #EXTINF:-1,City TV
 http://200.110.169.237:8202/play/a03n
 #EXTINF:-1,Claro Cinema
-http://45.190.185.210:8000/play/a0cj
+http://go.iptvhn.net:25461/5766/5766/6527
 #EXTINF:-1,Claro Sports
 http://200.110.169.237:8202/play/a00n
 #EXTINF:-1,Comedy Central
@@ -259,8 +259,6 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnfIEdf6oMuGPuf0NhdJaYY/ts
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmgD9a7NDMVv7UHNgK7aYCI/ts
 #EXTINF:-1,ZOOMOO
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJuPOeEW9f2Uk86FZyEP2FJs/ts
-#EXTINF:-1,Babyfirst
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Baby Shark TV	
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
